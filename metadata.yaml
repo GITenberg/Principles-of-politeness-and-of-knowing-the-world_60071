@@ -1,11 +1,16 @@
 _repo: Principles-of-politeness-and-of-knowing-the-world_60071
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60071-h/images/cover.jpg
 creator:
   author:
     agent_name: Philip Dormer Stanhope (Earl of Chesterfield)
     gutenberg_agent_id: '50774'
     url: http://www.gutenberg.org/2009/agents/50774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60071#Principles-of-politeness-and-of-knowing-the-world
 gutenberg_issued: '2019-08-07'
 gutenberg_type: Text
 identifiers:
